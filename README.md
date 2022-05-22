@@ -9,3 +9,4 @@ Answers to questions I'm curious about:
 5) How many Singaporeans are working in the FAANG companies? Big Four accounting firms? Banking sector?
 6) What are the income brackets and the population % of each?
 7) How many profitable (> 1mil annual) companies are there in Singapore?
+8) What is the environmental impact on Singapore if nothing has changed in the way of climate change prevention?
