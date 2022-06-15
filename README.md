@@ -10,3 +10,4 @@ Answers to questions I'm curious about:
 6) What are the income brackets and the population % of each?
 7) How many profitable (> 1mil annual) companies are there in Singapore?
 8) What is the environmental impact on Singapore if nothing has changed in the way of climate change prevention?
+9) How many residents live in: 1-room flats, 2-room flats, 3-room flats, 4-room flats, 5-room and executive flats, condos and apartments, landed houses, others?
